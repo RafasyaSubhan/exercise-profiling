@@ -1,12 +1,12 @@
-## GPU Endpoint /all-student
+## GUI Endpoint /all-student
 ![View Results in Table](assets/GPU/img.png)
 ![Summary Report](assets/GPU/img_1.png)
 
-## GPU Endpoint /all-student-name
+## GUI Endpoint /all-student-name
 ![View Results in Table](assets/GPU/img_2.png)
 ![Summary Report](assets/GPU/img_3.png)
 
-## GPU Endpoint /highest-gpa
+## GUI Endpoint /highest-gpa
 ![View Results in Table](assets/GPU/img_4.png)
 ![Summary Report](assets/GPU/img_5.png)
 
